@@ -3,7 +3,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my Term paper and Undergraduate thesis
 - 🌱 I’m curjtly learning  Java Script
-- ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+- ![](https://komarev.com/ghpvc/?username=your-github-Alexdiascardoso&color=green)
 
 <!--
 ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
